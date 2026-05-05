@@ -108,7 +108,7 @@ g++ main.cpp -o kiosk
 ## Sample Menu
 
 ```
-===== KIOSK MENU =====
+====== KIOSK MENU ======
 1. Show Products
 2. Buy Product
 3. Set Active Mode
